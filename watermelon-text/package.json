@@ -1,0 +1,14 @@
+{
+  "name": "watermelon-text-editor",
+  "version": "1.0.0-ALPHA",
+  "description": "Brand New Text Editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DevMnazz",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "electron": "^38.1.2"
+  }
+}
